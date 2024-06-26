@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    background-color: rgb(42, 157, 165);
+    padding: 20px 0;
+    color: #FFF;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu_links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.menu_links a {
+    color: #FFF;
+    text-decoration: none;
+}
